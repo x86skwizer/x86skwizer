@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Python, JS, Docker...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/x86skwizer](https://github.com/x86skwizer](https://github.com/x86skwizer?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/x86skwizer]([https://github.com/x86skwizer](https://github.com/x86skwizer?tab=repositories](https://github.com/x86skwizer?tab=repositories))
 
 - 💬 Ask me about **C, Linux, HTML5, CSS3**
 
