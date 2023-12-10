@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif">
 <p align="left"> <a href="https://twitter.com/amrire_yassine" target="blank"><img src="https://img.shields.io/twitter/follow/amrire_yassine?logo=twitter&style=for-the-badge" alt="@amrire_yassine" /></a> </p>
 
-- 🔭 I’m currently working on [simple_shell](git@github.com:x86skwizer/simple_shell.git)
+- 🔭 I’m currently working on [AirBnB_clone](https://github.com/x86skwizer/AirBnB_clone)
 
 - 🌱 I’m currently learning **C++, Python, JS, Docker...**
 
