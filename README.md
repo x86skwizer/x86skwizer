@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AirBnB_clone](https://github.com/x86skwizer/AirBnB_clone)
 
-- 🌱 I’m currently learning **C++, Python, JS, Docker...**
+- 🌱 I’m currently learning Python, JS, Docker...**
 
 - 📫 How to reach me **yassineamrire@proton.com**
 
