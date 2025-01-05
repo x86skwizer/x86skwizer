@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm x86_Skw!zer (Yassine AMRIRE)</h1>
-<h3 align="center">Full-Stack Developer (Specialized in Backend)</h3>
-
-<p align="center">
-  <img alt="Coding" width="300" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif">
-</p>
 
 ## About Me
 I’m a full-stack developer passionate about backend systems, distributed computing, 
