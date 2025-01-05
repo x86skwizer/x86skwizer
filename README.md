@@ -10,4 +10,4 @@ and building robust server-side applications.
 ## Skills & Tools
 - **Languages**: Python, JavaScript, C
 - **Technologies**: Docker, Linux, Git, MySQL
-- **Currently Learning**: Advanced Python, Networking, Flask
+- **Currently Learning**: Advanced Python, Networking, Flask, Django, FastAPI
