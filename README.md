@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm x86_Skw!zer (Yassine AMRIRE)</h1>
-
 ## About Me
 I’m a full-stack developer passionate about backend systems, distributed computing, 
 and everything Docker. Currently refining my Python and networking knowledge, 
