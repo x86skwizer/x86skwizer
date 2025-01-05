@@ -18,16 +18,3 @@ and building robust server-side applications.
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/amrireyassine)
 
 **Email**: [yassineamrire@proton.com](mailto:yassineamrire@proton.com)
-
-## GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=x86skwizer&show_icons=true&theme=dark"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x86skwizer&layout=compact&theme=dark"/>
-    </td>
-  </tr>
-</table>
-
