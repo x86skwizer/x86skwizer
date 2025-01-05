@@ -1,5 +1,5 @@
 ## About Me
-I’m a full-stack developer passionate about backend systems, distributed computing, 
+I’m a DevOps & Back-End Developer/Engineer passionate about backend systems, distributed computing, 
 and everything Docker. Currently refining my Python and networking knowledge, 
 and building robust server-side applications.
 
