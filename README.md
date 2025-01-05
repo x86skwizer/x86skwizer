@@ -12,9 +12,3 @@ and building robust server-side applications.
 - **Languages**: Python, JavaScript, C
 - **Technologies**: Docker, Linux, Git, MySQL
 - **Currently Learning**: Advanced Python, Networking, Flask
-
-## Connect with Me
-[![Twitter Badge](https://img.shields.io/twitter/follow/amrire_yassine?logo=twitter&style=for-the-badge)](https://twitter.com/amrire_yassine)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/amrireyassine)
-
-**Email**: [yassineamrire@proton.com](mailto:yassineamrire@proton.com)
