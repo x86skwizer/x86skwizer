@@ -11,7 +11,7 @@ and building robust server-side applications.
   - Implementing user authentication, database models, and continuous integration.
 
 ## Skills & Tools
-- **Languages**: Python, C/C++, JavaScript
+- **Languages**: Python, JavaScript, C
 - **Technologies**: Docker, Linux, Git, MySQL
 - **Currently Learning**: Advanced Python, Networking, Flask
 
