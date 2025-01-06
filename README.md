@@ -8,6 +8,6 @@ and building robust server-side applications.
   - Implementing user authentication, database models, and continuous integration.
 
 ## Skills & Tools
-- **Languages**: Python, JavaScript, C
-- **Technologies**: Docker, Linux, Git, MySQL, POSTGRES, Redis, Postman, Postmortem
+- **Languages**: Python, SQL, C, NodeJS
+- **Technologies**: Docker, Linux, Git, MySQL, POSTGRES, Redis, Postman, Postmortem, Redis, MongoDB
 - **Currently Learning**: Advanced Python, Networking, Flask, Django, FastAPI, RESTful API, jQuery, Webstack monitoring, React
